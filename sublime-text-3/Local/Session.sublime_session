@@ -1,0 +1,2923 @@
+{
+	"folder_history":
+	[
+		"/home/kmejka/Dokumenty/git-repos/various/sco0ter-tetris-29e5931f5164",
+		"/home/kmejka/Dokumenty/git-repos/github-kmejka/dropwizard-desktop",
+		"/home/kmejka/Dokumenty/hubot",
+		"/home/kmejka/Dokumenty/git-repos/github-kmejka/lgi-desktop",
+		"/home/kmejka/Dokumenty/git-repos",
+		"/home/kmejka/Dokumenty",
+		"/etc/openvpn/devvpc",
+		"/home/kmejka/.local/share/applications",
+		"/etc/apt/sources.list.d",
+		"/home/kmejka/Dokumenty/git-repos/liberty-global",
+		"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot",
+		"/home/kmejka/Dokumenty/git-repos/liberty-global/es-adapter/src/main/java/com/lgi/epg/schedule/api",
+		"/media/kmejka/Dropcam Pro",
+		"/home/kmejka/.ssh",
+		"/home/kmejka/Dokumenty/git-repos/liberty-global/infrastructure",
+		"/home/kmejka/Dokumenty/appathon",
+		"/home/kmejka/hubot"
+	],
+	"last_version": 3083,
+	"last_window_id": 61,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"X",
+						"XAUTHKEY"
+					],
+					[
+						"smart",
+						"smartcardId"
+					],
+					[
+						"MONI",
+						"MONITORING_ES_DOMAIN"
+					],
+					[
+						"ACTI",
+						"ActiveMQ"
+					],
+					[
+						"sta",
+						"stackName"
+					],
+					[
+						"fir",
+						"firemanOrder"
+					],
+					[
+						"firema",
+						"firemanSize"
+					],
+					[
+						"fireman",
+						"firemanIndex"
+					],
+					[
+						"fire",
+						"firemanIndex"
+					],
+					[
+						"firem",
+						"firemanOrder"
+					],
+					[
+						"be",
+						"beginning"
+					],
+					[
+						"is",
+						"instances"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 194.0,
+				"last_filter": "compare",
+				"selected_items":
+				[
+					[
+						"compare",
+						"Sublimerge: Compare to View..."
+					],
+					[
+						"diff",
+						"Git: Diff All Files"
+					],
+					[
+						"destroy",
+						"Origami: Destroy Pane on the Left"
+					],
+					[
+						"origami left",
+						"Origami: Create Pane on the Left"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"origami pane le",
+						"Origami: Destroy Pane on the Left"
+					],
+					[
+						"open",
+						"Origami: Create Pane on the Left"
+					],
+					[
+						"sca",
+						"Set Syntax: Scala"
+					],
+					[
+						"scala",
+						"Set Syntax: Scala"
+					],
+					[
+						"java",
+						"Set Syntax: Java"
+					],
+					[
+						"markd",
+						"Set Syntax: Markdown"
+					],
+					[
+						"bash",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"text",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"git res",
+						"Git: Reset (hard) HEAD"
+					],
+					[
+						"read",
+						"Snippet: README - extended (issues, tag and flattr)"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pre",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"clou",
+						"Set Syntax: CloudFormation"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"coffee",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"compar",
+						"Sublimerge: Compare to View..."
+					],
+					[
+						"cloj",
+						"Set Syntax: Clojure"
+					],
+					[
+						"mini",
+						"Pretty JSON: Minify (compress) JSON"
+					],
+					[
+						"minif",
+						"Pretty JSON: Minify (compress) JSON"
+					],
+					[
+						"pretty",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"prett",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"pretty pr",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"pret",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"inde",
+						"Indent JSON"
+					],
+					[
+						"INDE",
+						"Indent JSON"
+					],
+					[
+						"JSON",
+						"Set Syntax: JSON"
+					],
+					[
+						"coffe",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"yaml",
+						"Set Syntax: YAML"
+					],
+					[
+						"propr",
+						"Set Syntax: Java Properties"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"utf",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"tex",
+						"Set Syntax: TeX"
+					],
+					[
+						"log",
+						"Set Syntax: LaTeX Log"
+					],
+					[
+						"ja",
+						"Set Syntax: Java"
+					],
+					[
+						"minify",
+						"Pretty JSON: Minify (compress) JSON"
+					],
+					[
+						"compare ",
+						"GitGutter: Compare Against Branch"
+					],
+					[
+						"comp",
+						"GitGutter: Compare Against HEAD"
+					],
+					[
+						"compat",
+						"GitGutter: Compare Against Branch"
+					],
+					[
+						"git g",
+						"GitGutter: Compare Against HEAD"
+					],
+					[
+						"show",
+						"GitGutter: Show Comparing Against"
+					],
+					[
+						"lint",
+						"JSLint"
+					],
+					[
+						"installp",
+						"Package Control: Install Package"
+					],
+					[
+						"destro",
+						"Origami: Destroy Pane on the Left"
+					],
+					[
+						"pane",
+						"Origami: Destroy Pane on the Right"
+					],
+					[
+						"pane l",
+						"Origami: Create Pane on the Left"
+					],
+					[
+						"makrdow",
+						"Set Syntax: Markdown"
+					],
+					[
+						"prev",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"pretty p",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"raml",
+						"Set Syntax: RAML"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"git",
+						"Git: Toggle Annotations"
+					]
+				],
+				"width": 453.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/kmejka/.gitconfig",
+				"/home/kmejka/.vimrc",
+				"/home/kmejka/.vim/bundle/vim-fugitive/README.markdown",
+				"/home/kmejka/.config/fish/fish_history",
+				"/home/kmejka/.ssh/known_hosts",
+				"/home/kmejka/.m2/settings.xml",
+				"/etc/openvpn/prodvpc/kmejka.conf",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/lgi-auth/templates/default/nginx_lgi.conf.erb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/remote-control-service/metadata.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/lgi-auth/templates/default/nginx.conf.erb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/remote-control-service/recipes/default.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/booking-stats-service/recipes/default.rb",
+				"/home/kmejka/Dokumenty/git-repos/bitbucket-kmejka/actorbintree/src/main/scala/actorbintree/BinaryTreeSet.scala",
+				"/home/kmejka/.m2/settings.xml-backup",
+				"/home/kmejka/Pulpit/indexing.log",
+				"/home/kmejka/Pobrane/settings (1).xml",
+				"/home/kmejka/Pobrane/settings.xml",
+				"/home/kmejka/Pulpit/wiedza.yaml",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/documentation/raml-api-documentation/raml-generator/raml/remote-control.raml",
+				"/home/kmejka/Dokumenty/git-repos/bitbucket-kmejka/reactive-scala-course/workbench/src/greeter/HelloWorld.scala",
+				"/home/kmejka/Pulpit/xorg",
+				"/home/kmejka/Dokumenty/git-repos/github-kmejka/reminders/README.md",
+				"/home/kmejka/Xorg.0.log",
+				"/home/kmejka/Dokumenty/git-repos/bitbucket-kmejka/reactive-scala-course/.gitignore",
+				"/home/kmejka/Dokumenty/git-repos/kleewho/run.sh",
+				"/home/kmejka/stop_kmejka_stack.sh",
+				"/home/kmejka/restart_kmejka_stack.sh",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/documentation/raml-api-documentation/raml-generator/raml/broadcastsByIds.json",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/lgi-auth/attributes/default.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/lgi-auth/recipes/default.rb",
+				"/home/kmejka/stack_kmejka.sh",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/schedule-api/metadata.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/infrastructure/aws/2_kraken/lib/opsworks-stack.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/remote-control-service/attributes/default.rb",
+				"/home/kmejka/.bashrc",
+				"/home/kmejka/.config/fish/config",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/payments-clerk/recipes/default.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/lgi-auth/templates/default/nginx_oauth.lua.erb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/remote-control-api/metadata.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/remote-control-api/recipes/default.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/remote-control-api/attributes/default.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/payments-clerk/attributes/default.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/lgi-3scale/templates/default/nginx_lgi.conf.erb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/infrastructure/aws/2_kraken/bigbang.rb",
+				"/home/kmejka/Pulpit/upuszczony tekst.txt",
+				"/tmp/.fr-3nCIv8/META-INF/MANIFEST.MF",
+				"/tmp/.fr-F6wGua/META-INF/MANIFEST.MF",
+				"/tmp/.fr-mwWAbc/META-INF/MANIFEST.MF",
+				"/tmp/.fr-Mgpfbd/META-INF/MANIFEST.MF",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/remote-control-api/remote-control-service/target/MANIFEST.MF",
+				"/home/kmejka/elasticsearch/elasticsearch-1.4.4/config/elasticsearch.yml",
+				"/home/kmejka/elasticsearch/elasticsearch-1.1.1/config/elasticsearch.yml",
+				"/tmp/.fr-klKyJU/quickcheck/src/main/scala/quickcheck/QuickCheck.scala",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/customer-api/.gitignore",
+				"/home/kmejka/Dokumenty/git-repos/bitbucket-kmejka/reactive-scala-course/quickcheck/.gitignore",
+				"/tmp/.fr-wlEyGh/quickcheck/src/main/scala/quickcheck/QuickCheck.scala",
+				"/tmp/.fr-WG1zsH/jackson-module-jsonSchema-jackson-module-jsonSchema-2.5.2/src/main/java/com/fasterxml/jackson/module/jsonSchema/factories/SchemaFactoryWrapper.java",
+				"/home/kmejka/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+				"/home/kmejka/Dokumenty/git-repos/github-kmejka/dropwizard-desktop/package.json",
+				"/home/kmejka/.config/sublime-text-3/Packages/User/YAML.sublime-settings",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/node_modules/hubot-flowdock/node_modules/flowdock/lib/json_stream.js",
+				"/home/kmejka/.config/sublime-text-3/Packages/User/JavaScript.sublime-settings",
+				"/home/kmejka/.config/sublime-text-3/Packages/User/Plain text.sublime-settings",
+				"/home/kmejka/Dokumenty/git-repos/bitbucket-kmejka/progfun-scala-course/.gitignore",
+				"/home/kmejka/Dokumenty/git-repos/bitbucket-kmejka/tcpfwd/.gitignore",
+				"/home/kmejka/elasticsearch.sh",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/service-gateway/service-gateway/target/classes/prod.json",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/src/robot.coffee",
+				"/etc/openvpn/prodvpc/kmejka.ovpn",
+				"/etc/openvpn/devvpc/kmejka.ovpn",
+				"/etc/openvpn/devvpc/kmejka.conf",
+				"/home/kmejka/Pulpit/33rddegree",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/documentation/raml-api-documentation/raml-generator/raml/index.raml",
+				"/home/kmejka/Pobrane/es-feeder-2.8.8-SNAPSHOT.pom",
+				"/home/kmejka/.vagrant.d/insecure_private_key",
+				"/home/kmejka/.ssh/config",
+				"/etc/hosts",
+				"/home/kmejka/.ssh/id_rsa",
+				"/home/kmejka/.ssh/id_rsa.pub",
+				"/home/kmejka/vagrant/Vagrantfile",
+				"/etc/host",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/mini-importer/mini-importer.iml",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/Makefile",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/kraken-elasticsearch/recipes/default.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/kraken-elasticsearch/attributes/default.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/kraken-elasticsearch/recipes/config_rabbitmq.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/kraken-elasticsearch/metadata.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/kraken-elasticsearch/templates/default/elasticsearch_nginx.erb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/kraken-elasticsearch/recipes/kraken_storage.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/kraken-elasticsearch/recipes/logstash_storage.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/kraken-domain/kraken-domain.iml",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/lgi-grafana/files/default/Responses-AppLevel.json",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/kraken-website/recipes/raml-console-api.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/customer-api/Tests/com/chello/booking/controllers/login/LoginResponseTest.java",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/LICENSE",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/customer-api/kraken.md",
+				"/home/kmejka/Dokumenty/git-repos/github-kmejka/Dropwizard-helloworld/src/main/java/pl/kmejka/dropwizard/helloworld/health/TemplateHealthCheck.java",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/node_modules/aws-sdk/lib/credentials/temporary_credentials.js",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/test-project/test-project-model/test-project-model.iml",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/epg-booking-acceptance-tests/target/surefire-reports/TEST-EPGAuthTest.xml",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot-cookbook/Thorfile",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/tentacle/src/test/java/.keep",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot-cookbook/.kitchen.yml",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/lgi-desktop/package.json",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/src/brain.coffee",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/src/scripts/deployToStack.coffee",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/src/scripts/crons.coffee",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/lgi-desktop/index.coffee",
+				"/home/kmejka/.config/sublime-text-3/Packages/User/CoffeeScript.sublime-settings",
+				"/home/kmejka/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/artifact-repository/recipes/deploy_artifacts.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/social-api-dropwizard/dependency-reduced-pom.xml",
+				"/home/kmejka/Dokumenty/git-repos/kleewho/dev-env.json",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/src/scripts/auth.coffee",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cmcore/Components/AdminPageWrapper.wo/AdminPageWrapper.html",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/node_modules/aws-sdk/lib/aws.js",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot-cookbook/chefignore",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/src/user.coffee",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/test/tests.coffee",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/node_modules/moment/f.coffee",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/node_modules/moment/foo.coffee",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/node_modules/moment/x.coffee",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/node_modules/moment/z.coffee",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/src/response.coffee",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/src/message.coffee",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/src/listener.coffee",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/src/creator.coffee"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 89.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"stack",
+					"remote-control",
+					"/kraken/v2/customerApi/api/",
+					"remote-control-s",
+					"remote-con",
+					"customer-api",
+					"remote-contro",
+					"facebook",
+					"faceboo",
+					"\"",
+					"userId",
+					"remote-control-ser",
+					"vodId",
+					"1.1.29",
+					"\n",
+					"set ",
+					"=",
+					"STACK_NAME",
+					"kmejka ",
+					"devvpc",
+					"kmejka",
+					"AWS_DOMAIN_NAME",
+					"appdev.io",
+					"DxWF2P/AgiMYI3UGymhMnSVbOGnPQ4uOEoD4agId",
+					"AKIAIBC2LK5LVKVAKVRA",
+					"./",
+					"remote-control-service",
+					"remote-control",
+					"service",
+					"service']",
+					"service",
+					"HEAD",
+					"=======",
+					"DEV-OPS:",
+					"0.1.2",
+					"remote-control",
+					"service-c",
+					"lgi_app_dropwizard",
+					"remote_control",
+					"services",
+					"remote_control_service",
+					"ElbCustomerInt",
+					"ElbScheduleInt",
+					"ELBCu",
+					"customer_api_adapter_dw",
+					"payments_clerk",
+					"remote_control",
+					"payments_clerk",
+					"remote-contro",
+					"payments-clerk",
+					"initd-jsw.sh.erb",
+					"social_api_dw",
+					"9095",
+					"payments-c",
+					"['remote-control",
+					"payments-clerk",
+					"payments-clerk'",
+					"payments-clerk",
+					"\n",
+					"unused",
+					"\n",
+					"nused",
+					"\n",
+					"unused",
+					"users",
+					":",
+					"\n/",
+					"        \n/",
+					"/User",
+					":",
+					" [",
+					"\n/",
+					"/",
+					"2a033796-0b3a-4f2c-b540-3f7c6a42ea4d",
+					" on Thu at ",
+					"response",
+					"response: 202",
+					"+",
+					"\"$ref\"",
+					".",
+					"&nbsp;",
+					"&#39;",
+					"<br />",
+					"p>",
+					"IsProductionEnvironment",
+					"},\n",
+					"git",
+					"http://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf",
+					"accesst",
+					"\"",
+					"Value MUST",
+					"http://blog.jooq.org/2014/11/03/10-things-you-didnt-know-about-java/",
+					"https://www.youtube.com/watch?v=8k_YpPVaIYA",
+					"s1",
+					"validating",
+					"miniimpo",
+					"mini-impo",
+					"FilterClause",
+					"elastics",
+					"elasti",
+					"https://www.youtube.com/watch?v=wgdBVIX9ifA",
+					",",
+					"imi: \"",
+					": {\nl",
+					"{\nl",
+					"³",
+					"E1",
+					"D2",
+					"D1",
+					"[9]",
+					"[8]",
+					"[7]",
+					"[6",
+					"[5]",
+					"[",
+					"[5]",
+					"A3",
+					"C1",
+					"A2",
+					"B2",
+					"A1",
+					"[0]",
+					"0",
+					"\"e",
+					"    \"id\": \"e",
+					"\"id\": \"e",
+					"\"id\": \"",
+					"\"id\": \"e"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"",
+					" ",
+					"'",
+					"\\n",
+					"a",
+					",\\n",
+					"ł",
+					")\\n",
+					"\\n",
+					"IE-15-241",
+					"HU-20-25",
+					"HU-6-432",
+					"HU-4-319",
+					"HU-9-280",
+					"HU-13-37",
+					"HU-10-940",
+					"HU-254-32",
+					"ł",
+					"",
+					"devvpc",
+					"dev-vpc",
+					"devvpc",
+					"/Dokumenty/biurowe/lgi-chef-secret.key",
+					"Ż",
+					"ń",
+					"ź",
+					"ą",
+					"ż",
+					"ę",
+					"ł",
+					"ć",
+					"ś",
+					"Ś",
+					"ź",
+					"Ę",
+					"SIÊ",
+					"Ł",
+					"Ś",
+					"ą",
+					"ć",
+					"ś",
+					"ł",
+					"ż",
+					"ń",
+					"ę",
+					"ź",
+					"ń",
+					"ś",
+					"ć",
+					"ł",
+					"ę",
+					"ą",
+					"ż",
+					"ą",
+					"ę",
+					"ł",
+					"ć",
+					"ś",
+					"\"",
+					"\\\"",
+					"\\n",
+					"ś",
+					"ą",
+					"ź",
+					"ć",
+					"ż",
+					"ę",
+					"ń",
+					"ł",
+					"ą",
+					"ć",
+					"",
+					"Ż",
+					"ś",
+					"ń",
+					"Ł",
+					"ę",
+					"ż",
+					"ł",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 195.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"opswotem",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"template",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"nginx",
+						"liberty-global/cookbooks/lgi-auth/templates/default/nginx.conf.erb"
+					],
+					[
+						"lgi",
+						"liberty-global/cookbooks/lgi-auth/templates/default/nginx_lgi.conf.erb"
+					],
+					[
+						"opsworkt",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"opswotempla",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"ops",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"ngin",
+						"liberty-global/cookbooks/lgi-auth/templates/default/nginx_lgi.conf.erb"
+					],
+					[
+						"opsw",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"opsworks",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"remot",
+						"liberty-global/documentation/raml-api-documentation/raml-generator/raml/remote-control.raml"
+					],
+					[
+						"opswor",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"run.s",
+						"kleewho/run.sh"
+					],
+					[
+						"remote-",
+						"liberty-global/documentation/raml-api-documentation/raml-generator/raml/remote-control.raml"
+					],
+					[
+						"run",
+						"kleewho/run.sh"
+					],
+					[
+						"opstem",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"lgi-auth",
+						"liberty-global/cookbooks/lgi-auth/attributes/default.rb"
+					],
+					[
+						"opswo",
+						"liberty-global/infrastructure/aws/2_kraken/lib/opsworks-stack.rb"
+					],
+					[
+						"kraken",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"remote-cont.raml",
+						"liberty-global/documentation/raml-api-documentation/raml-generator/raml/remote-control.raml"
+					],
+					[
+						"remote-control-servdefa",
+						"liberty-global/cookbooks/remote-control-service/recipes/default.rb"
+					],
+					[
+						"remote-control-serdefa",
+						"liberty-global/cookbooks/remote-control-service/attributes/default.rb"
+					],
+					[
+						"remote-controldefaul",
+						"liberty-global/cookbooks/remote-control-service/attributes/default.rb"
+					],
+					[
+						"remote-contrmetada",
+						"liberty-global/cookbooks/remote-control-service/metadata.rb"
+					],
+					[
+						"kraken-template",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"opswork-te",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"templateopswork",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"payments-clerkrb",
+						"liberty-global/cookbooks/payments-clerk/recipes/default.rb"
+					],
+					[
+						"nginxer",
+						"liberty-global/cookbooks/lgi-auth/templates/default/nginx_lgi.conf.erb"
+					],
+					[
+						"opswork",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"bigba",
+						"liberty-global/infrastructure/aws/2_kraken/bigbang.rb"
+					],
+					[
+						"giti",
+						"liberty-global/customer-api/.gitignore"
+					],
+					[
+						".json",
+						"github-kmejka/dropwizard-desktop/package.json"
+					],
+					[
+						"json",
+						"liberty-global/hubot/node_modules/hubot-flowdock/node_modules/flowdock/lib/json_stream.js"
+					],
+					[
+						"krakentem",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"robot.",
+						"liberty-global/hubot/src/robot.coffee"
+					],
+					[
+						"prod.jso",
+						"liberty-global/service-gateway/service-gateway/target/classes/prod.json"
+					],
+					[
+						"opswroskte",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"indexraml",
+						"liberty-global/documentation/raml-api-documentation/raml-generator/raml/index.raml"
+					],
+					[
+						"op",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"kraken-elasticsea",
+						"liberty-global/cookbooks/kraken-elasticsearch/recipes/default.rb"
+					],
+					[
+						"kraken-elasticse",
+						"liberty-global/cookbooks/kraken-elasticsearch/attributes/default.rb"
+					],
+					[
+						".keep",
+						"liberty-global/tentacle/src/test/java/.keep"
+					],
+					[
+						"deplo",
+						"liberty-global/hubot/src/scripts/deployToStack.coffee"
+					],
+					[
+						"crons",
+						"liberty-global/hubot/src/scripts/crons.coffee"
+					],
+					[
+						"coffee",
+						"liberty-global/hubot/src/brain.coffee"
+					],
+					[
+						"stack",
+						"liberty-global/infrastructure/aws/2_kraken/lib/opsworks-stack.rb"
+					],
+					[
+						"bigban",
+						"liberty-global/infrastructure/aws/2_kraken/bigbang.rb"
+					],
+					[
+						"cloudformation-utils.rb",
+						"liberty-global/infrastructure/aws/2_kraken/lib/cloudformation-utils.rb"
+					],
+					[
+						"cron",
+						"liberty-global/hubot/src/scripts/crons.coffee"
+					],
+					[
+						"broadcas-nl",
+						"liberty-global/schedule-api-v2-dropwizard/es-adapter/src/test/resources/broadcasts-nl.json"
+					],
+					[
+						"broadc-ie",
+						"liberty-global/schedule-api-v2-dropwizard/es-adapter/src/test/resources/broadcasts-ie.json"
+					],
+					[
+						"broadca-hu",
+						"liberty-global/schedule-api-v2-dropwizard/es-adapter/src/test/resources/broadcasts-hu.json"
+					],
+					[
+						"broadcn",
+						"liberty-global/schedule-api-v2-dropwizard/es-adapter/target/test-classes/broadcasts-nl.json"
+					],
+					[
+						"broad-ie",
+						"liberty-global/schedule-api-v2-dropwizard/es-adapter/target/test-classes/broadcasts-ie.json"
+					],
+					[
+						"broadcast",
+						"liberty-global/schedule-api-v2-dropwizard/es-adapter/target/test-classes/broadcasts-hu.json"
+					],
+					[
+						"broadcas",
+						"liberty-global/documentation/raml-api-documentation/raml/broadcasts.json"
+					],
+					[
+						"es-pop",
+						"liberty-global/cookbooks/products/recipes/es-popularity-enricher.rb"
+					],
+					[
+						"opsworks-temap",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"bigb",
+						"liberty-global/infrastructure/aws/2_kraken/bigbang.rb"
+					],
+					[
+						"dev-in",
+						"liberty-global/infrastructure/aws/2_kraken/config/dev-instances.json"
+					],
+					[
+						"opsworks-jk",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"intances",
+						"liberty-global/infrastructure/aws/2_kraken/config/prod-instances.json"
+					],
+					[
+						"miniimportdefault-es-con",
+						"liberty-global/schedule-api-v2-dropwizard/mini-importer-jar/src/main/resources/default-es-config.json"
+					],
+					[
+						"opsworks-krake",
+						"infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"cloudfo",
+						"infrastructure/aws/2_kraken/lib/cloudformation-utils.rb"
+					],
+					[
+						"stacka",
+						"infrastructure/aws/2_kraken/stackapocalypse.rb"
+					],
+					[
+						"big",
+						"infrastructure/aws/2_kraken/bigbang.rb"
+					],
+					[
+						"provisi",
+						"infrastructure/provisioning/provision.rb"
+					],
+					[
+						"",
+						"infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"opws",
+						"infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"hubot.rb",
+						"cookbooks/lgi-hubot/attributes/default.rb"
+					],
+					[
+						"mds-moc",
+						"cookbooks/mds-mock/files/default/mds-mock.rb"
+					],
+					[
+						"productsdefa",
+						"cookbooks/products/recipes/default.rb"
+					],
+					[
+						"epgbojson",
+						"infrastructure/provisioning/nodes/kraken/epgbooking.json"
+					],
+					[
+						"mds-mo",
+						"infrastructure/provisioning/nodes/mds-mock.json"
+					],
+					[
+						"hubot",
+						"infrastructure/provisioning/nodes/team/hubot.json"
+					],
+					[
+						"berk",
+						"cookbooks/Berksfile"
+					],
+					[
+						"hubot.js",
+						"infrastructure/provisioning/nodes/team/hubot.json"
+					],
+					[
+						"mdsmock",
+						"cookbooks/mds-mock/files/default/mds-mock.rb"
+					],
+					[
+						"whoci",
+						"hubot/src/scripts/whois.coffee"
+					],
+					[
+						"payments-clerk/defa",
+						"cookbooks/payments-clerk/recipes/default.rb"
+					],
+					[
+						"test.co",
+						"hubot/src/scripts/test.coffee"
+					],
+					[
+						"hubot/package.json",
+						"hubot/package.json"
+					],
+					[
+						"cookbooks/hubot/a",
+						"cookbooks/lgi-hubot/attributes/default.rb"
+					],
+					[
+						"hubot/aatr",
+						"cookbooks/lgi-hubot/attributes/default.rb"
+					],
+					[
+						"hubot-scr",
+						"src/templates/hubot-scripts.json"
+					],
+					[
+						"lib/op",
+						"liberty-global/infrastructure/aws/2_kraken/lib/opsworks-stack.rb"
+					],
+					[
+						"lgi-grafa",
+						"liberty-global/cookbooks/lgi-grafana/attributes/default.rb"
+					],
+					[
+						"lgi-grafana",
+						"liberty-global/cookbooks/lgi-grafana/attributes/default.rb"
+					],
+					[
+						"scripts.json",
+						"liberty-global/hubot/src/templates/hubot-scripts.json"
+					],
+					[
+						"packag",
+						"liberty-global/hubot/package.json"
+					],
+					[
+						"paymentslceres",
+						"liberty-global/payments-clerk/payments-clerk-dropwizard/src/main/java/com/lgi/paymentsclerk/resource/PaymentsClerkResource.java"
+					],
+					[
+						"users",
+						"liberty-global/hubot/src/scripts/users.coffee"
+					],
+					[
+						"whosi",
+						"liberty-global/hubot/src/scripts/whois.coffee"
+					],
+					[
+						"auth",
+						"liberty-global/hubot/src/scripts/auth.coffee"
+					],
+					[
+						"who",
+						"liberty-global/hubot/src/scripts/whois.coffee"
+					],
+					[
+						"default.rb",
+						"liberty-global/cookbooks/schedule-api/recipes/default.rb"
+					],
+					[
+						"schedule-apidef",
+						"liberty-global/cookbooks/schedule-api/recipes/default.rb"
+					],
+					[
+						"payemnts-clerkdef",
+						"liberty-global/cookbooks/payments-clerk/recipes/default.rb"
+					],
+					[
+						"payemntdef",
+						"liberty-global/cookbooks/payments-clerk/attributes/default.rb"
+					],
+					[
+						"schedule-api",
+						"liberty-global/cookbooks/schedule-api/recipes/schedule-api.rb"
+					],
+					[
+						"rout",
+						"liberty-global/infrastructure/aws/2_kraken/lib/route53-utils.rb"
+					],
+					[
+						"hubot.j",
+						"liberty-global/infrastructure/provisioning/nodes/team/hubot.json"
+					],
+					[
+						"hubot.jso",
+						"liberty-global/infrastructure/provisioning/nodes/team/hubot.json"
+					],
+					[
+						"lgi-hubot",
+						"liberty-global/cookbooks/lgi-hubot/attributes/default.rb"
+					],
+					[
+						".template.json",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"stac",
+						"liberty-global/infrastructure/aws/2_kraken/stackapocalypse.rb"
+					],
+					[
+						"cloudformationu",
+						"liberty-global/infrastructure/aws/2_kraken/lib/cloudformation-utils.rb"
+					],
+					[
+						"cloud",
+						"liberty-global/infrastructure/aws/2_kraken/lib/cloudformation-utils.rb"
+					],
+					[
+						"lgi-artifacts",
+						"liberty-global/cookbooks/lgi-artifacts/libraries/default.rb"
+					],
+					[
+						"mini-importer.rb",
+						"liberty-global/cookbooks/mini-importer/recipes/install.rb"
+					],
+					[
+						"es-popularity-enricher",
+						"liberty-global/cookbooks/products/recipes/es-popularity-enricher.rb"
+					],
+					[
+						"hubotdefault",
+						"liberty-global/hubot-cookbook/recipes/default.rb"
+					],
+					[
+						"raml-api-documentation",
+						"liberty-global/documentation/raml-api-documentation/raml/index.raml"
+					],
+					[
+						"api-documentation",
+						"liberty-global/documentation/api-documentation/README.md"
+					],
+					[
+						"bersk",
+						"liberty-global/cookbooks/Berksfile"
+					],
+					[
+						"hubot-cookrecip",
+						"liberty-global/hubot-cookbook/recipes/default.rb"
+					],
+					[
+						"ber",
+						"liberty-global/cookbooks/Berksfile"
+					],
+					[
+						"whois",
+						"liberty-global/hubot/src/scripts/whois.coffee"
+					],
+					[
+						"users.co",
+						"liberty-global/hubot/src/scripts/users.coffee"
+					],
+					[
+						"user",
+						"liberty-global/hubot/src/user.coffee"
+					],
+					[
+						"hubo.j",
+						"liberty-global/infrastructure/provisioning/nodes/team/hubot.json"
+					],
+					[
+						"prov",
+						"liberty-global/infrastructure/provisioning/provision.rb"
+					],
+					[
+						"lgi-hubotdefaut",
+						"liberty-global/cookbooks/lgi-hubot/recipes/default.rb"
+					],
+					[
+						"provision",
+						"liberty-global/infrastructure/provisioning/provision.rb"
+					],
+					[
+						"hubotcookbookdefault",
+						"liberty-global/hubot-cookbook/recipes/default.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 352.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 678.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 309.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"X",
+						"XAUTHKEY"
+					],
+					[
+						"smart",
+						"smartcardId"
+					],
+					[
+						"MONI",
+						"MONITORING_ES_DOMAIN"
+					],
+					[
+						"ACTI",
+						"ActiveMQ"
+					],
+					[
+						"sta",
+						"stackName"
+					],
+					[
+						"fir",
+						"firemanOrder"
+					],
+					[
+						"firema",
+						"firemanSize"
+					],
+					[
+						"fireman",
+						"firemanIndex"
+					],
+					[
+						"fire",
+						"firemanIndex"
+					],
+					[
+						"firem",
+						"firemanOrder"
+					],
+					[
+						"be",
+						"beginning"
+					],
+					[
+						"is",
+						"instances"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/kmejka/Pulpit/wiedza.yaml",
+					"settings":
+					{
+						"buffer_size": 9654,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "{\n  \"size\" : 4,\n  \"query\" : {\n    \"bool\" : {\n      \"must\" : [ {\n        \"match_all\" : {}\n      }] \n    }\n  }\n}\n\n{\n  \"size\" : 4,\n  \"query\" : {\n    \"bool\" : {\n      \"must\" : [ {\n        \"query_string\" : {\n          \"query\" : \"PL-9-41\",\n          \"default_field\" : \"channel.regions\"\n        }\n      }, {\n        \"query_string\" : {\n          \"query\" : \"D4A\",\n          \"default_field\" : \"channel.platforms\"\n        }\n      } ]\n    }\n  },\n  \"_source\" : {\n    \"includes\" : [ \"imi\", \"channel.logicalPositions\", \"channel\", \"channel.regions\", \"video\", \"video.directors.id\", \"channel.ref\", \"video.actors.id\", \"video.id\", \"video.writers.id\", \"channel.platforms\", \"countryCode\", \"video.countryCode\", \"id\", \"channel.logoLink\" ],\n    \"excludes\" : [ ]\n  }\n}\n\n{\n  \"size\" : 4,\n  \"query\" : {\n    \"bool\" : {\n      \"must\" : [ {\n        \"query_string\" : {\n          \"query\" : \"PL\",\n          \"default_field\" : \"channel.regions\"\n        }\n      }]\n    }\n  },\n  \"_source\" : {\n    \"includes\" : [ \"imi\", \"channel.logicalPositions\", \"channel\", \"channel.regions\", \"video\", \"video.directors.id\", \"channel.ref\", \"video.actors.id\", \"video.id\", \"video.writers.id\", \"channel.platforms\", \"countryCode\", \"video.countryCode\", \"id\", \"channel.logoLink\" ],\n    \"excludes\" : [ ]\n  }\n}",
+					"settings":
+					{
+						"buffer_size": 1245,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "curl -s -H 'authorization:Basic b2VzcDpPN3IoY3gyNTh3KTUzJCVvMilLOjZ9MSViI0M/NG4=' http://internal-kmejka-ElbCustomer-15Q3HDTQ0T8AN-1122517593.eu-west-1.elb.amazonaws.com:9093/kraken/v2/customerApi/api//NL/User/id/8079543",
+					"settings":
+					{
+						"buffer_size": 220,
+						"line_ending": "Unix",
+						"name": "curl -s -H 'authorization:Basic b2VzcDpPN3IoY3gyNT"
+					}
+				},
+				{
+					"contents": "curl -H \"Content-type:application/x-www-form-urlencoded\" http://api.kmejka.appdev.io/kraken/v2/customers/NL/users/8079543/smartcards/default/tune/channel -v -XPOST -d \"feedId=TLA_11_Szczecin\"\n\n\n\n[09:56:22.884] [dw-24 - POST /NL/users/8079543/smartcards/default/tune/channel] [INFO ] [DynamicPropertyFactory] [country:NL, userId:8079543, smartcardId:default] DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@3d309bdd\n\n[09:56:22.884] [dw-24 - POST /NL/users/8079543/smartcards/default/tune/channel] [INFO ] [DynamicPropertyFactory] [NL/8079543/default] DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@3d309bdd",
+					"settings":
+					{
+						"buffer_size": 746,
+						"line_ending": "Unix",
+						"name": "curl -H \"Content-type:application/x-www-form-urlen"
+					}
+				},
+				{
+					"contents": "curl -v -i -X POST -H 'x-auth-id: billing' -X 'x-auth-key: WTRzM0E7RThyM2VXdkp1c2N3UEQtZA0K' 'http://api.uat-pepper.appdev.io/kraken/v2/customers/NL/users/558/payments' -d '{\"eventId\":\"100001\",\"hznHouseholdId\":\"79129041_nl\",\"ipAddress\":\"127.0.0.1\",\"transactionId\":\"99b5de514947ba4b162e06f9e293c19d\",\"transactionDate\":\"2014-11-26T14:23:21Z\",\"appName\":\"FlappyBird\"}'",
+					"settings":
+					{
+						"buffer_size": 364,
+						"line_ending": "Unix",
+						"name": "curl -v -i -X POST -H 'x-auth-id: billing' -X 'x-a"
+					}
+				},
+				{
+					"contents": "http://localhost:9100/PL/users/3798540/smartcards/default/play/vod\ncurl -H \"Content-type:application/x-www-form-urlencoded\" http://localhost:9100/PL/users/3798540/smartcards/default/play/vod -v -XPOST -d \"crid=aaa\"\n",
+					"settings":
+					{
+						"buffer_size": 215,
+						"line_ending": "Unix",
+						"name": "http://localhost:9100/PL/users/3798540/smartcards/"
+					}
+				},
+				{
+					"contents": "curl -H \"Content-type:application/x-www-form-urlencoded\" http://localhost:9100/NL/users/5643652/smartcards/1211381192/play/vod -v -XPOST -d \"crid=aaa\"\n",
+					"settings":
+					{
+						"buffer_size": 151,
+						"line_ending": "Unix",
+						"name": "curl -H \"Content-type:application/x-www-form-urlen"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 194.0,
+				"last_filter": "json",
+				"selected_items":
+				[
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"push ",
+						"Git: Push"
+					],
+					[
+						"amend com",
+						"Git: Amend Commit"
+					],
+					[
+						"add",
+						"Git: Add Current File"
+					],
+					[
+						"commit",
+						"Git: Amend Commit"
+					],
+					[
+						"ma",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"prett",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"compare",
+						"Sublimerge: Compare to View..."
+					],
+					[
+						"diff",
+						"Git: Diff All Files"
+					],
+					[
+						"destroy",
+						"Origami: Destroy Pane on the Left"
+					],
+					[
+						"origami left",
+						"Origami: Create Pane on the Left"
+					],
+					[
+						"origami pane le",
+						"Origami: Destroy Pane on the Left"
+					],
+					[
+						"open",
+						"Origami: Create Pane on the Left"
+					],
+					[
+						"sca",
+						"Set Syntax: Scala"
+					],
+					[
+						"scala",
+						"Set Syntax: Scala"
+					],
+					[
+						"java",
+						"Set Syntax: Java"
+					],
+					[
+						"markd",
+						"Set Syntax: Markdown"
+					],
+					[
+						"bash",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"text",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"git res",
+						"Git: Reset (hard) HEAD"
+					],
+					[
+						"read",
+						"Snippet: README - extended (issues, tag and flattr)"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pre",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"clou",
+						"Set Syntax: CloudFormation"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"coffee",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"compar",
+						"Sublimerge: Compare to View..."
+					],
+					[
+						"cloj",
+						"Set Syntax: Clojure"
+					],
+					[
+						"mini",
+						"Pretty JSON: Minify (compress) JSON"
+					],
+					[
+						"minif",
+						"Pretty JSON: Minify (compress) JSON"
+					],
+					[
+						"pretty",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"pretty pr",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"pret",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"inde",
+						"Indent JSON"
+					],
+					[
+						"INDE",
+						"Indent JSON"
+					],
+					[
+						"JSON",
+						"Set Syntax: JSON"
+					],
+					[
+						"coffe",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"yaml",
+						"Set Syntax: YAML"
+					],
+					[
+						"propr",
+						"Set Syntax: Java Properties"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"utf",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"tex",
+						"Set Syntax: TeX"
+					],
+					[
+						"log",
+						"Set Syntax: LaTeX Log"
+					],
+					[
+						"ja",
+						"Set Syntax: Java"
+					],
+					[
+						"minify",
+						"Pretty JSON: Minify (compress) JSON"
+					],
+					[
+						"compare ",
+						"GitGutter: Compare Against Branch"
+					],
+					[
+						"comp",
+						"GitGutter: Compare Against HEAD"
+					],
+					[
+						"compat",
+						"GitGutter: Compare Against Branch"
+					],
+					[
+						"git g",
+						"GitGutter: Compare Against HEAD"
+					],
+					[
+						"show",
+						"GitGutter: Show Comparing Against"
+					],
+					[
+						"lint",
+						"JSLint"
+					],
+					[
+						"installp",
+						"Package Control: Install Package"
+					],
+					[
+						"destro",
+						"Origami: Destroy Pane on the Left"
+					],
+					[
+						"pane",
+						"Origami: Destroy Pane on the Right"
+					],
+					[
+						"pane l",
+						"Origami: Create Pane on the Left"
+					],
+					[
+						"makrdow",
+						"Set Syntax: Markdown"
+					],
+					[
+						"prev",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"pretty p",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"raml",
+						"Set Syntax: RAML"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"git",
+						"Git: Toggle Annotations"
+					]
+				],
+				"width": 453.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/kmejka/Dokumenty/git-repos",
+				"/home/kmejka/Dokumenty/git-repos/bitbucket-kmejka",
+				"/home/kmejka/Dokumenty/git-repos/bitbucket-kmejka/reactive-scala-course",
+				"/home/kmejka/Dokumenty/git-repos/bitbucket-kmejka/reactive-scala-course/workbench",
+				"/home/kmejka/Dokumenty/git-repos/bitbucket-kmejka/reactive-scala-course/workbench/src",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/lgi-artifacts",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/lgi-artifacts/recipes",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/lgi-essentials",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/lgi-essentials/attributes",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/lgi-essentials/libraries",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/lgi-essentials/recipes",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/lgi_app",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/lgi_sensu",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/lgi_sensu/attributes",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/lgi_sensu/recipes",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/redbee-enricher",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/remote-control-service",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/remote-control-service/recipes",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/src",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/src/scripts"
+			],
+			"file_history":
+			[
+				"/etc/X11/xorg.conf",
+				"/home/kmejka/Dokumenty/mds_rb_hzn_workflow.cfg",
+				"/home/kmejka/Dokumenty/upc.xml",
+				"/home/kmejka/Dokumenty/links.txt",
+				"/home/kmejka/Pulpit/INFO.yaml",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/infrastructure/aws/2_kraken/stackapocalypse.rb",
+				"/home/kmejka/.config/fish/config",
+				"/home/kmejka/.config/fish/config.fish",
+				"/home/kmejka/new.rb",
+				"/home/kmejka/mini-importer-es.json",
+				"/home/kmejka/mini-importer.json",
+				"/home/kmejka/Dokumenty/git-repos/sensu/sensu-plugins-http/CHANGELOG.md",
+				"/home/kmejka/Pulpit/monitoring1-mon-bolek.log",
+				"/home/kmejka/start_kmejka_stack.sh",
+				"/home/kmejka/.config/fish/fish_history",
+				"/home/kmejka/restart_kmejka_stack.sh",
+				"/home/kmejka/Pulpit/metrological_script.sh",
+				"/home/kmejka/.gitconfig",
+				"/home/kmejka/.vimrc",
+				"/home/kmejka/.vim/bundle/vim-fugitive/README.markdown",
+				"/home/kmejka/.ssh/known_hosts",
+				"/home/kmejka/.m2/settings.xml",
+				"/etc/openvpn/prodvpc/kmejka.conf",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/lgi-auth/templates/default/nginx_lgi.conf.erb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/remote-control-service/metadata.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/lgi-auth/templates/default/nginx.conf.erb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/remote-control-service/recipes/default.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/booking-stats-service/recipes/default.rb",
+				"/home/kmejka/Dokumenty/git-repos/bitbucket-kmejka/actorbintree/src/main/scala/actorbintree/BinaryTreeSet.scala",
+				"/home/kmejka/.m2/settings.xml-backup",
+				"/home/kmejka/Pulpit/indexing.log",
+				"/home/kmejka/Pobrane/settings (1).xml",
+				"/home/kmejka/Pobrane/settings.xml",
+				"/home/kmejka/Pulpit/wiedza.yaml",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/documentation/raml-api-documentation/raml-generator/raml/remote-control.raml",
+				"/home/kmejka/Dokumenty/git-repos/bitbucket-kmejka/reactive-scala-course/workbench/src/greeter/HelloWorld.scala",
+				"/home/kmejka/Pulpit/xorg",
+				"/home/kmejka/Dokumenty/git-repos/github-kmejka/reminders/README.md",
+				"/home/kmejka/Xorg.0.log",
+				"/home/kmejka/Dokumenty/git-repos/bitbucket-kmejka/reactive-scala-course/.gitignore",
+				"/home/kmejka/Dokumenty/git-repos/kleewho/run.sh",
+				"/home/kmejka/stop_kmejka_stack.sh",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/documentation/raml-api-documentation/raml-generator/raml/broadcastsByIds.json",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/lgi-auth/attributes/default.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/lgi-auth/recipes/default.rb",
+				"/home/kmejka/stack_kmejka.sh",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/schedule-api/metadata.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/infrastructure/aws/2_kraken/lib/opsworks-stack.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/remote-control-service/attributes/default.rb",
+				"/home/kmejka/.bashrc",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/payments-clerk/recipes/default.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/lgi-auth/templates/default/nginx_oauth.lua.erb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/remote-control-api/metadata.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/remote-control-api/recipes/default.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/remote-control-api/attributes/default.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/payments-clerk/attributes/default.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/lgi-3scale/templates/default/nginx_lgi.conf.erb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/infrastructure/aws/2_kraken/bigbang.rb",
+				"/home/kmejka/Pulpit/upuszczony tekst.txt",
+				"/tmp/.fr-3nCIv8/META-INF/MANIFEST.MF",
+				"/tmp/.fr-F6wGua/META-INF/MANIFEST.MF",
+				"/tmp/.fr-mwWAbc/META-INF/MANIFEST.MF",
+				"/tmp/.fr-Mgpfbd/META-INF/MANIFEST.MF",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/remote-control-api/remote-control-service/target/MANIFEST.MF",
+				"/home/kmejka/elasticsearch/elasticsearch-1.4.4/config/elasticsearch.yml",
+				"/home/kmejka/elasticsearch/elasticsearch-1.1.1/config/elasticsearch.yml",
+				"/tmp/.fr-klKyJU/quickcheck/src/main/scala/quickcheck/QuickCheck.scala",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/customer-api/.gitignore",
+				"/home/kmejka/Dokumenty/git-repos/bitbucket-kmejka/reactive-scala-course/quickcheck/.gitignore",
+				"/tmp/.fr-wlEyGh/quickcheck/src/main/scala/quickcheck/QuickCheck.scala",
+				"/tmp/.fr-WG1zsH/jackson-module-jsonSchema-jackson-module-jsonSchema-2.5.2/src/main/java/com/fasterxml/jackson/module/jsonSchema/factories/SchemaFactoryWrapper.java",
+				"/home/kmejka/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+				"/home/kmejka/Dokumenty/git-repos/github-kmejka/dropwizard-desktop/package.json",
+				"/home/kmejka/.config/sublime-text-3/Packages/User/YAML.sublime-settings",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/node_modules/hubot-flowdock/node_modules/flowdock/lib/json_stream.js",
+				"/home/kmejka/.config/sublime-text-3/Packages/User/JavaScript.sublime-settings",
+				"/home/kmejka/.config/sublime-text-3/Packages/User/Plain text.sublime-settings",
+				"/home/kmejka/Dokumenty/git-repos/bitbucket-kmejka/progfun-scala-course/.gitignore",
+				"/home/kmejka/Dokumenty/git-repos/bitbucket-kmejka/tcpfwd/.gitignore",
+				"/home/kmejka/elasticsearch.sh",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/service-gateway/service-gateway/target/classes/prod.json",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/src/robot.coffee",
+				"/etc/openvpn/prodvpc/kmejka.ovpn",
+				"/etc/openvpn/devvpc/kmejka.ovpn",
+				"/etc/openvpn/devvpc/kmejka.conf",
+				"/home/kmejka/Pulpit/33rddegree",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/documentation/raml-api-documentation/raml-generator/raml/index.raml",
+				"/home/kmejka/Pobrane/es-feeder-2.8.8-SNAPSHOT.pom",
+				"/home/kmejka/.vagrant.d/insecure_private_key",
+				"/home/kmejka/.ssh/config",
+				"/etc/hosts",
+				"/home/kmejka/.ssh/id_rsa",
+				"/home/kmejka/.ssh/id_rsa.pub",
+				"/home/kmejka/vagrant/Vagrantfile",
+				"/etc/host",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/mini-importer/mini-importer.iml",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/Makefile",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/kraken-elasticsearch/recipes/default.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/kraken-elasticsearch/attributes/default.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/kraken-elasticsearch/recipes/config_rabbitmq.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/kraken-elasticsearch/metadata.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/kraken-elasticsearch/templates/default/elasticsearch_nginx.erb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/kraken-elasticsearch/recipes/kraken_storage.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/kraken-elasticsearch/recipes/logstash_storage.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/kraken-domain/kraken-domain.iml",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/lgi-grafana/files/default/Responses-AppLevel.json",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/kraken-website/recipes/raml-console-api.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/customer-api/Tests/com/chello/booking/controllers/login/LoginResponseTest.java",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/LICENSE",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/customer-api/kraken.md",
+				"/home/kmejka/Dokumenty/git-repos/github-kmejka/Dropwizard-helloworld/src/main/java/pl/kmejka/dropwizard/helloworld/health/TemplateHealthCheck.java",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/node_modules/aws-sdk/lib/credentials/temporary_credentials.js",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/test-project/test-project-model/test-project-model.iml",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/epg-booking-acceptance-tests/target/surefire-reports/TEST-EPGAuthTest.xml",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot-cookbook/Thorfile",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/tentacle/src/test/java/.keep",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot-cookbook/.kitchen.yml",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/lgi-desktop/package.json",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/src/brain.coffee",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/src/scripts/deployToStack.coffee",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/hubot/src/scripts/crons.coffee",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/lgi-desktop/index.coffee",
+				"/home/kmejka/.config/sublime-text-3/Packages/User/CoffeeScript.sublime-settings",
+				"/home/kmejka/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/cookbooks/artifact-repository/recipes/deploy_artifacts.rb",
+				"/home/kmejka/Dokumenty/git-repos/liberty-global/social-api-dropwizard/dependency-reduced-pom.xml",
+				"/home/kmejka/Dokumenty/git-repos/kleewho/dev-env.json"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 89.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"http://blog.agiledeveloper.com/2015/06/lambdas-are-glue-code.html",
+					"--use d",
+					"http://",
+					"jvm.",
+					"com.lgi",
+					": {},",
+					" {},",
+					"'",
+					"stack",
+					"remote-control",
+					"/kraken/v2/customerApi/api/",
+					"remote-control-s",
+					"remote-con",
+					"customer-api",
+					"remote-contro",
+					"facebook",
+					"faceboo",
+					"\"",
+					"userId",
+					"remote-control-ser",
+					"vodId",
+					"1.1.29",
+					"\n",
+					"set ",
+					"=",
+					"STACK_NAME",
+					"kmejka ",
+					"devvpc",
+					"kmejka",
+					"AWS_DOMAIN_NAME",
+					"appdev.io",
+					"DxWF2P/AgiMYI3UGymhMnSVbOGnPQ4uOEoD4agId",
+					"AKIAIBC2LK5LVKVAKVRA",
+					"./",
+					"remote-control-service",
+					"remote-control",
+					"service",
+					"service']",
+					"service",
+					"HEAD",
+					"=======",
+					"DEV-OPS:",
+					"0.1.2",
+					"remote-control",
+					"service-c",
+					"lgi_app_dropwizard",
+					"remote_control",
+					"services",
+					"remote_control_service",
+					"ElbCustomerInt",
+					"ElbScheduleInt",
+					"ELBCu",
+					"customer_api_adapter_dw",
+					"payments_clerk",
+					"remote_control",
+					"payments_clerk",
+					"remote-contro",
+					"payments-clerk",
+					"initd-jsw.sh.erb",
+					"social_api_dw",
+					"9095",
+					"payments-c",
+					"['remote-control",
+					"payments-clerk",
+					"payments-clerk'",
+					"payments-clerk",
+					"\n",
+					"unused",
+					"\n",
+					"nused",
+					"\n",
+					"unused",
+					"users",
+					":",
+					"\n/",
+					"        \n/",
+					"/User",
+					":",
+					" [",
+					"\n/",
+					"/",
+					"2a033796-0b3a-4f2c-b540-3f7c6a42ea4d",
+					" on Thu at ",
+					"response",
+					"response: 202",
+					"+",
+					"\"$ref\"",
+					".",
+					"&nbsp;",
+					"&#39;",
+					"<br />",
+					"p>",
+					"IsProductionEnvironment",
+					"},\n",
+					"git",
+					"http://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf",
+					"accesst",
+					"\"",
+					"Value MUST",
+					"http://blog.jooq.org/2014/11/03/10-things-you-didnt-know-about-java/",
+					"https://www.youtube.com/watch?v=8k_YpPVaIYA",
+					"s1",
+					"validating",
+					"miniimpo",
+					"mini-impo",
+					"FilterClause",
+					"elastics",
+					"elasti",
+					"https://www.youtube.com/watch?v=wgdBVIX9ifA",
+					",",
+					"imi: \"",
+					": {\nl",
+					"{\nl",
+					"³",
+					"E1",
+					"D2",
+					"D1",
+					"[9]",
+					"[8]",
+					"[7]",
+					"[6",
+					"[5]",
+					"[",
+					"[5]",
+					"A3",
+					"C1",
+					"A2",
+					"B2"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"",
+					" ",
+					"'",
+					"\\n",
+					"a",
+					",\\n",
+					"ł",
+					")\\n",
+					"\\n",
+					"IE-15-241",
+					"HU-20-25",
+					"HU-6-432",
+					"HU-4-319",
+					"HU-9-280",
+					"HU-13-37",
+					"HU-10-940",
+					"HU-254-32",
+					"ł",
+					"",
+					"devvpc",
+					"dev-vpc",
+					"devvpc",
+					"/Dokumenty/biurowe/lgi-chef-secret.key",
+					"Ż",
+					"ń",
+					"ź",
+					"ą",
+					"ż",
+					"ę",
+					"ł",
+					"ć",
+					"ś",
+					"Ś",
+					"ź",
+					"Ę",
+					"SIÊ",
+					"Ł",
+					"Ś",
+					"ą",
+					"ć",
+					"ś",
+					"ł",
+					"ż",
+					"ń",
+					"ę",
+					"ź",
+					"ń",
+					"ś",
+					"ć",
+					"ł",
+					"ę",
+					"ą",
+					"ż",
+					"ą",
+					"ę",
+					"ł",
+					"ć",
+					"ś",
+					"\"",
+					"\\\"",
+					"\\n",
+					"ś",
+					"ą",
+					"ź",
+					"ć",
+					"ż",
+					"ę",
+					"ń",
+					"ł",
+					"ą",
+					"ć",
+					"",
+					"Ż",
+					"ś",
+					"ń",
+					"Ł",
+					"ę",
+					"ż",
+					"ł",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/kmejka/Dokumenty/git-repos"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/kmejka/Pulpit/wiedza.yaml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9654,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1519,
+										1519
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/YAML/YAML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1245,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1245,
+										1245
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 220,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										220,
+										220
+									]
+								],
+								"settings":
+								{
+									"auto_name": "curl -s -H 'authorization:Basic b2VzcDpPN3IoY3gyNT",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 746,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										84,
+										84
+									]
+								],
+								"settings":
+								{
+									"auto_name": "curl -H \"Content-type:application/x-www-form-urlen",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 364,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										364,
+										364
+									]
+								],
+								"settings":
+								{
+									"auto_name": "curl -v -i -X POST -H 'x-auth-id: billing' -X 'x-a",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 215,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										124,
+										124
+									]
+								],
+								"settings":
+								{
+									"auto_name": "http://localhost:9100/PL/users/3798540/smartcards/",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 151,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										107,
+										107
+									]
+								],
+								"settings":
+								{
+									"auto_name": "curl -H \"Content-type:application/x-www-form-urlen",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 195.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 120.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"stacka",
+						"liberty-global/infrastructure/aws/2_kraken/stackapocalypse.rb"
+					],
+					[
+						"opswotem",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"template",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"nginx",
+						"liberty-global/cookbooks/lgi-auth/templates/default/nginx.conf.erb"
+					],
+					[
+						"lgi",
+						"liberty-global/cookbooks/lgi-auth/templates/default/nginx_lgi.conf.erb"
+					],
+					[
+						"opsworkt",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"opswotempla",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"ops",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"ngin",
+						"liberty-global/cookbooks/lgi-auth/templates/default/nginx_lgi.conf.erb"
+					],
+					[
+						"opsw",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"opsworks",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"remot",
+						"liberty-global/documentation/raml-api-documentation/raml-generator/raml/remote-control.raml"
+					],
+					[
+						"opswor",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"run.s",
+						"kleewho/run.sh"
+					],
+					[
+						"remote-",
+						"liberty-global/documentation/raml-api-documentation/raml-generator/raml/remote-control.raml"
+					],
+					[
+						"run",
+						"kleewho/run.sh"
+					],
+					[
+						"opstem",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"lgi-auth",
+						"liberty-global/cookbooks/lgi-auth/attributes/default.rb"
+					],
+					[
+						"opswo",
+						"liberty-global/infrastructure/aws/2_kraken/lib/opsworks-stack.rb"
+					],
+					[
+						"kraken",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"remote-cont.raml",
+						"liberty-global/documentation/raml-api-documentation/raml-generator/raml/remote-control.raml"
+					],
+					[
+						"remote-control-servdefa",
+						"liberty-global/cookbooks/remote-control-service/recipes/default.rb"
+					],
+					[
+						"remote-control-serdefa",
+						"liberty-global/cookbooks/remote-control-service/attributes/default.rb"
+					],
+					[
+						"remote-controldefaul",
+						"liberty-global/cookbooks/remote-control-service/attributes/default.rb"
+					],
+					[
+						"remote-contrmetada",
+						"liberty-global/cookbooks/remote-control-service/metadata.rb"
+					],
+					[
+						"kraken-template",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"opswork-te",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"templateopswork",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"payments-clerkrb",
+						"liberty-global/cookbooks/payments-clerk/recipes/default.rb"
+					],
+					[
+						"nginxer",
+						"liberty-global/cookbooks/lgi-auth/templates/default/nginx_lgi.conf.erb"
+					],
+					[
+						"opswork",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"bigba",
+						"liberty-global/infrastructure/aws/2_kraken/bigbang.rb"
+					],
+					[
+						"giti",
+						"liberty-global/customer-api/.gitignore"
+					],
+					[
+						".json",
+						"github-kmejka/dropwizard-desktop/package.json"
+					],
+					[
+						"json",
+						"liberty-global/hubot/node_modules/hubot-flowdock/node_modules/flowdock/lib/json_stream.js"
+					],
+					[
+						"krakentem",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"robot.",
+						"liberty-global/hubot/src/robot.coffee"
+					],
+					[
+						"prod.jso",
+						"liberty-global/service-gateway/service-gateway/target/classes/prod.json"
+					],
+					[
+						"opswroskte",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"indexraml",
+						"liberty-global/documentation/raml-api-documentation/raml-generator/raml/index.raml"
+					],
+					[
+						"op",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"kraken-elasticsea",
+						"liberty-global/cookbooks/kraken-elasticsearch/recipes/default.rb"
+					],
+					[
+						"kraken-elasticse",
+						"liberty-global/cookbooks/kraken-elasticsearch/attributes/default.rb"
+					],
+					[
+						".keep",
+						"liberty-global/tentacle/src/test/java/.keep"
+					],
+					[
+						"deplo",
+						"liberty-global/hubot/src/scripts/deployToStack.coffee"
+					],
+					[
+						"crons",
+						"liberty-global/hubot/src/scripts/crons.coffee"
+					],
+					[
+						"coffee",
+						"liberty-global/hubot/src/brain.coffee"
+					],
+					[
+						"stack",
+						"liberty-global/infrastructure/aws/2_kraken/lib/opsworks-stack.rb"
+					],
+					[
+						"bigban",
+						"liberty-global/infrastructure/aws/2_kraken/bigbang.rb"
+					],
+					[
+						"cloudformation-utils.rb",
+						"liberty-global/infrastructure/aws/2_kraken/lib/cloudformation-utils.rb"
+					],
+					[
+						"cron",
+						"liberty-global/hubot/src/scripts/crons.coffee"
+					],
+					[
+						"broadcas-nl",
+						"liberty-global/schedule-api-v2-dropwizard/es-adapter/src/test/resources/broadcasts-nl.json"
+					],
+					[
+						"broadc-ie",
+						"liberty-global/schedule-api-v2-dropwizard/es-adapter/src/test/resources/broadcasts-ie.json"
+					],
+					[
+						"broadca-hu",
+						"liberty-global/schedule-api-v2-dropwizard/es-adapter/src/test/resources/broadcasts-hu.json"
+					],
+					[
+						"broadcn",
+						"liberty-global/schedule-api-v2-dropwizard/es-adapter/target/test-classes/broadcasts-nl.json"
+					],
+					[
+						"broad-ie",
+						"liberty-global/schedule-api-v2-dropwizard/es-adapter/target/test-classes/broadcasts-ie.json"
+					],
+					[
+						"broadcast",
+						"liberty-global/schedule-api-v2-dropwizard/es-adapter/target/test-classes/broadcasts-hu.json"
+					],
+					[
+						"broadcas",
+						"liberty-global/documentation/raml-api-documentation/raml/broadcasts.json"
+					],
+					[
+						"es-pop",
+						"liberty-global/cookbooks/products/recipes/es-popularity-enricher.rb"
+					],
+					[
+						"opsworks-temap",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"bigb",
+						"liberty-global/infrastructure/aws/2_kraken/bigbang.rb"
+					],
+					[
+						"dev-in",
+						"liberty-global/infrastructure/aws/2_kraken/config/dev-instances.json"
+					],
+					[
+						"opsworks-jk",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"intances",
+						"liberty-global/infrastructure/aws/2_kraken/config/prod-instances.json"
+					],
+					[
+						"miniimportdefault-es-con",
+						"liberty-global/schedule-api-v2-dropwizard/mini-importer-jar/src/main/resources/default-es-config.json"
+					],
+					[
+						"opsworks-krake",
+						"infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"cloudfo",
+						"infrastructure/aws/2_kraken/lib/cloudformation-utils.rb"
+					],
+					[
+						"big",
+						"infrastructure/aws/2_kraken/bigbang.rb"
+					],
+					[
+						"provisi",
+						"infrastructure/provisioning/provision.rb"
+					],
+					[
+						"",
+						"infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"opws",
+						"infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"hubot.rb",
+						"cookbooks/lgi-hubot/attributes/default.rb"
+					],
+					[
+						"mds-moc",
+						"cookbooks/mds-mock/files/default/mds-mock.rb"
+					],
+					[
+						"productsdefa",
+						"cookbooks/products/recipes/default.rb"
+					],
+					[
+						"epgbojson",
+						"infrastructure/provisioning/nodes/kraken/epgbooking.json"
+					],
+					[
+						"mds-mo",
+						"infrastructure/provisioning/nodes/mds-mock.json"
+					],
+					[
+						"hubot",
+						"infrastructure/provisioning/nodes/team/hubot.json"
+					],
+					[
+						"berk",
+						"cookbooks/Berksfile"
+					],
+					[
+						"hubot.js",
+						"infrastructure/provisioning/nodes/team/hubot.json"
+					],
+					[
+						"mdsmock",
+						"cookbooks/mds-mock/files/default/mds-mock.rb"
+					],
+					[
+						"whoci",
+						"hubot/src/scripts/whois.coffee"
+					],
+					[
+						"payments-clerk/defa",
+						"cookbooks/payments-clerk/recipes/default.rb"
+					],
+					[
+						"test.co",
+						"hubot/src/scripts/test.coffee"
+					],
+					[
+						"hubot/package.json",
+						"hubot/package.json"
+					],
+					[
+						"cookbooks/hubot/a",
+						"cookbooks/lgi-hubot/attributes/default.rb"
+					],
+					[
+						"hubot/aatr",
+						"cookbooks/lgi-hubot/attributes/default.rb"
+					],
+					[
+						"hubot-scr",
+						"src/templates/hubot-scripts.json"
+					],
+					[
+						"lib/op",
+						"liberty-global/infrastructure/aws/2_kraken/lib/opsworks-stack.rb"
+					],
+					[
+						"lgi-grafa",
+						"liberty-global/cookbooks/lgi-grafana/attributes/default.rb"
+					],
+					[
+						"lgi-grafana",
+						"liberty-global/cookbooks/lgi-grafana/attributes/default.rb"
+					],
+					[
+						"scripts.json",
+						"liberty-global/hubot/src/templates/hubot-scripts.json"
+					],
+					[
+						"packag",
+						"liberty-global/hubot/package.json"
+					],
+					[
+						"paymentslceres",
+						"liberty-global/payments-clerk/payments-clerk-dropwizard/src/main/java/com/lgi/paymentsclerk/resource/PaymentsClerkResource.java"
+					],
+					[
+						"users",
+						"liberty-global/hubot/src/scripts/users.coffee"
+					],
+					[
+						"whosi",
+						"liberty-global/hubot/src/scripts/whois.coffee"
+					],
+					[
+						"auth",
+						"liberty-global/hubot/src/scripts/auth.coffee"
+					],
+					[
+						"who",
+						"liberty-global/hubot/src/scripts/whois.coffee"
+					],
+					[
+						"default.rb",
+						"liberty-global/cookbooks/schedule-api/recipes/default.rb"
+					],
+					[
+						"schedule-apidef",
+						"liberty-global/cookbooks/schedule-api/recipes/default.rb"
+					],
+					[
+						"payemnts-clerkdef",
+						"liberty-global/cookbooks/payments-clerk/recipes/default.rb"
+					],
+					[
+						"payemntdef",
+						"liberty-global/cookbooks/payments-clerk/attributes/default.rb"
+					],
+					[
+						"schedule-api",
+						"liberty-global/cookbooks/schedule-api/recipes/schedule-api.rb"
+					],
+					[
+						"rout",
+						"liberty-global/infrastructure/aws/2_kraken/lib/route53-utils.rb"
+					],
+					[
+						"hubot.j",
+						"liberty-global/infrastructure/provisioning/nodes/team/hubot.json"
+					],
+					[
+						"hubot.jso",
+						"liberty-global/infrastructure/provisioning/nodes/team/hubot.json"
+					],
+					[
+						"lgi-hubot",
+						"liberty-global/cookbooks/lgi-hubot/attributes/default.rb"
+					],
+					[
+						".template.json",
+						"liberty-global/infrastructure/aws/2_kraken/templates/opsworks-kraken.template.json"
+					],
+					[
+						"stac",
+						"liberty-global/infrastructure/aws/2_kraken/stackapocalypse.rb"
+					],
+					[
+						"cloudformationu",
+						"liberty-global/infrastructure/aws/2_kraken/lib/cloudformation-utils.rb"
+					],
+					[
+						"cloud",
+						"liberty-global/infrastructure/aws/2_kraken/lib/cloudformation-utils.rb"
+					],
+					[
+						"lgi-artifacts",
+						"liberty-global/cookbooks/lgi-artifacts/libraries/default.rb"
+					],
+					[
+						"mini-importer.rb",
+						"liberty-global/cookbooks/mini-importer/recipes/install.rb"
+					],
+					[
+						"es-popularity-enricher",
+						"liberty-global/cookbooks/products/recipes/es-popularity-enricher.rb"
+					],
+					[
+						"hubotdefault",
+						"liberty-global/hubot-cookbook/recipes/default.rb"
+					],
+					[
+						"raml-api-documentation",
+						"liberty-global/documentation/raml-api-documentation/raml/index.raml"
+					],
+					[
+						"api-documentation",
+						"liberty-global/documentation/api-documentation/README.md"
+					],
+					[
+						"bersk",
+						"liberty-global/cookbooks/Berksfile"
+					],
+					[
+						"hubot-cookrecip",
+						"liberty-global/hubot-cookbook/recipes/default.rb"
+					],
+					[
+						"ber",
+						"liberty-global/cookbooks/Berksfile"
+					],
+					[
+						"whois",
+						"liberty-global/hubot/src/scripts/whois.coffee"
+					],
+					[
+						"users.co",
+						"liberty-global/hubot/src/scripts/users.coffee"
+					],
+					[
+						"user",
+						"liberty-global/hubot/src/user.coffee"
+					],
+					[
+						"hubo.j",
+						"liberty-global/infrastructure/provisioning/nodes/team/hubot.json"
+					],
+					[
+						"prov",
+						"liberty-global/infrastructure/provisioning/provision.rb"
+					],
+					[
+						"lgi-hubotdefaut",
+						"liberty-global/cookbooks/lgi-hubot/recipes/default.rb"
+					],
+					[
+						"provision",
+						"liberty-global/infrastructure/provisioning/provision.rb"
+					],
+					[
+						"hubotcookbookdefault",
+						"liberty-global/hubot-cookbook/recipes/default.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 352.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 678.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 309.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 43,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

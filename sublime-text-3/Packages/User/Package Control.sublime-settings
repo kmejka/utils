@@ -1,0 +1,35 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"Case Conversion",
+		"CForm",
+		"ConvertToUTF8",
+		"Darkula Color Scheme",
+		"Diffy",
+		"EasyDiff",
+		"Full House Color Scheme",
+		"Git",
+		"Git Config",
+		"GitGutter",
+		"Github Color Theme",
+		"Indent XML",
+		"JsFormat",
+		"JSHint",
+		"JSLint",
+		"JSONLint",
+		"Markdown Preview",
+		"Neopolitan",
+		"Origami",
+		"Package Control",
+		"Package Snippets",
+		"Pretty JSON",
+		"RAML Syntax Highlighter",
+		"Sublimerge Pro",
+		"Theme - El Capitan",
+		"Theme - Soda"
+	]
+}

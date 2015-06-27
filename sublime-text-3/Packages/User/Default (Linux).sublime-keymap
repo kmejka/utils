@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+shift+r"], "command": "reveal_in_side_bar"},
+	{ "keys": ["ctrl+shift+a"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
+	{ "keys": ["ctrl+shift+p"], "command": "expand_selection", "args": {"to": "tag"} },
+]

@@ -1,0 +1,30 @@
+{
+	"licensed": false,
+	"packages":
+	[
+		"Better CoffeeScript",
+		"Case Conversion",
+		"Darkula Color Scheme",
+		"Diffy",
+		"EasyDiff",
+		"El Capitan Theme",
+		"Full House Color Scheme",
+		"Git Config",
+		"Git",
+		"GitGutter",
+		"Github Color Theme",
+		"Indent XML",
+		"Markdown Preview",
+		"Origami",
+		"Package Control",
+		"Pretty JSON",
+		"Theme - Soda"
+	],
+	"startup_sec": 0.209388,
+	"syntax":
+	{
+		"JSON": 3,
+		"Ruby": 61
+	},
+	"time": 1409640815
+}
