@@ -1,0 +1,16 @@
+[user]
+	name = Krzysztof Mejka
+	email = krzysztof.mejka@gmail.com
+[core]
+	editor = vim
+[color]
+	ui = auto
+[branch]
+	autosetuprebase = always
+[rerere]
+	enabled = true
+[alias]
+	last = log -1 HEAD --abbrev-commit --pretty=format:'%h - %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'
+    stat = status -sb
+    logf = log --all --graph --pretty=format:'%Cred%h%Creset -%C(auto)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+    ls   = log --oneline
